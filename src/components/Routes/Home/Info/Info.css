@@ -1,0 +1,22 @@
+.company-intro {
+  margin-top: 4vh !important;
+  text-align: center; }
+  .company-intro h4 {
+    margin-bottom: 50px; }
+  .company-intro p {
+    margin: auto;
+    width: 50%;
+    max-width: 80%;
+    font-size: 0.9em;
+    line-height: 3vh; }
+  .company-intro .company-info-icons {
+    margin-top: 60px;
+    transition: all 0.3s; }
+    .company-intro .company-info-icons img {
+      width: 10vh;
+      height: auto; }
+    .company-intro .company-info-icons h5 {
+      font-size: 0.9em;
+      font-weight: 600; }
+
+/*# sourceMappingURL=info.css.map */
